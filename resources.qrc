@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="/pyPmedia">
+    <file>gttHidro60.png</file>
+    <file>gttHidro2.png</file>
+    <file>gttHidro.svg</file>
+    <file>logoDHB_P.png</file>
+    <file>icon.png</file>
+    <file>ufscar.png</file>
+    <file>salvar.png</file>
+    <file>shpIcon.png</file>
+    <file>csvIco.png</file>
+    <file>fig1.png</file>
+    <file>logoDHB.png</file>
+    <file>fill.PNG</file>
+    <file>idw.png</file>
+    <file>thiessen.png</file>
+  </qresource>
+</RCC>
